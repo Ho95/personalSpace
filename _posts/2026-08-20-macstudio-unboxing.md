@@ -29,24 +29,24 @@ M5 pro와 Max를 탑재한 맥북프로가 같이 나왔으니 곧 스튜디오 
 
 눈물을 머금고 결제. 배송 예정일은 9/22 ~ 10/10일.<br/>
 이때 살짝 M5 업글단 행복회로 돌아가기 시작했다.<br/><br/>
-![pic]({{ site.baseurl }}/_assets/images/260820/u1.png)<br/>. 
+![pic]({{ site.baseurl }}/assets/images/260820/u1.png)<br/>. 
 
 # 애플의 서프라이즈
 스튜디오를 6월25일 새벽에 결제했는데, 그날 오후에 애플 전제품 기습인상<br/>
 울트라 60GPU가 80GPU 금액으로 올랐다. 결제 미뤘으면 진짜 좀 난감한 상황이 생길뻔....<br/>
 도파민 짜릿하게 한번 느끼고 행복회로 돌리면서 지내다가 7월 말에 배송일정 변경 메일이 왔다.<br/>
 두근두근하며 열어봤으나 1주일정도 땡겨진것 뿐...쟌넨.<br/><br/>
-![pic]({{ site.baseurl }}/_assets/images/260820/u1-1.png)<br/>. <br/>
+![pic]({{ site.baseurl }}/assets/images/260820/u1-1.png)<br/>. <br/>
 그렇게 또 업글단 행복회로 돌리다가 8월 19일날 갑자기 문자가 왔다. 20일날 배송된다고<br/><br/>
-![pic]({{ site.baseurl }}/_assets/images/260820/u2.png)<br/>. <br/>
+![pic]({{ site.baseurl }}/assets/images/260820/u2.png)<br/>. <br/>
 Yeah~<br/>. 
 
 # 개봉 및 셋팅
 역시 새제품 뜯는건 두근두근하다.<br/><br/>
-![pic]({{ site.baseurl }}/_assets/images/260820/u4.jpg)<br/>
+![pic]({{ site.baseurl }}/assets/images/260820/u4.jpg)<br/>
 진짜 애플 디자인 하나는 이찌방임.<br/>
 보십쇼 보십쇼 이 웅장함을..!<br/><br/>
-![pic]({{ site.baseurl }}/_assets/images/260820/u5.jpg)<br/>
+![pic]({{ site.baseurl }}/assets/images/260820/u5.jpg)<br/>
 그리고 진짜 맥스 모델보다 울트라 모델이 체감될 정도로 무거웠다. 쿨링팬의 히트싱크가 더 크다나 뭐라나.<br/>
 설레는 마음으로 전원을 켰는데, 바로 난관에 봉착. 키보드와 마우스 모두 무선이라 부팅하고 셋팅을 못하는 상황이 발생.<br/>
 제미나이 센세가 말하길... "페어링 모드로 켜놓고 맥을 부팅하면 알아서 잡힌다."<br/>
@@ -56,4 +56,4 @@ Yeah~<br/>.
 이래저래 쓰던거 설치하고 셋팅하다보니 시간을 제법 썼는데, 기존에 돌리던 파이썬 스크립트를 돌려보니<br/>
 캬... 감탄. 엄청난 컴퓨팅 파워다.<br/>
 오래오래 고장나지말고 가자.<br/>
-![pic]({{ site.baseurl }}/_assets/images/260820/u7.jpg)
+![pic]({{ site.baseurl }}/assets/images/260820/u7.jpg)
